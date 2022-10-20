@@ -27,7 +27,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url(../img/background.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url(../breif-2/img/background.jpg);
     background-position: center;
     background-size: cover;
 }
